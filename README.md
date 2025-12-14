@@ -12,7 +12,6 @@ These projects demonstrate applications ranging from traffic monitoring to indus
 - [Project 2: People Counter](#-project-2-people-counter)
 - [Project 3: PPE Detector](#-project-3-personal-protective-equipment-detector)
 - [Project 4: Poker Hand Detector](#-project-4-poker-hand-detector)
-- [Directory Structure](#-directory-structure)
 
 ---
 
@@ -126,7 +125,3 @@ A real-time card recognizer that uses game logic to identify the rank of a poker
 4.  **Display:** The detected hand rank is displayed on the screen.
 
 ---
-
-## 📂 Directory Structure
-
-Ensure your project folder is organized as follows for the code to run without path errors:
